@@ -3,3 +3,7 @@ routes:
     endpoint: /api/test
     data:
       token: "test"
+  - name: test1
+    endpoint: /api/test1
+    data:
+      token: "test"
