@@ -1,0 +1,5 @@
+routes:
+  - name: test
+    endpoint: /api/test
+    data:
+      token: "test"
