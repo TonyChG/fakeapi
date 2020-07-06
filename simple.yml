@@ -7,3 +7,7 @@ routes:
     endpoint: /api/test1
     data:
       token: "test"
+  - name: test2
+    endpoint: /api/test2
+    data:
+      token: "test"
